@@ -1,0 +1,9 @@
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\bin\Debug\Practica1Tests.dll
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\bin\Debug\Practica1Tests.pdb
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\bin\Debug\Practica1.exe
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\bin\Debug\Practica1.pdb
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\obj\Debug\Practica1Tests.csprojResolveAssemblyReference.cache
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\obj\Debug\Practica1Tests.dll
+R:\Documents\Visual Studio 2015\Projects\DisenhoSoftware\Practica1Tests\obj\Debug\Practica1Tests.pdb
